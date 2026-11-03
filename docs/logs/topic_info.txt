@@ -1,0 +1,36 @@
+Type: visualization_msgs/msg/MarkerArray
+
+Publisher count: 1
+
+Node name: custom_marker_publisher
+Node namespace: /
+Topic type: visualization_msgs/msg/MarkerArray
+Topic type hash: RIHS01_86cb8800b6fb05b5eff1abd7a56f62a5641d3ae9a1c29e78e67e704f1d067dcf
+Endpoint type: PUBLISHER
+GID: 01.0f.83.ad.03.02.f9.8f.00.00.00.00.00.00.13.03
+QoS profile:
+  Reliability: RELIABLE
+  History (Depth): KEEP_LAST (10)
+  Durability: VOLATILE
+  Lifespan: Infinite
+  Deadline: Infinite
+  Liveliness: AUTOMATIC
+  Liveliness lease duration: Infinite
+
+Subscription count: 1
+
+Node name: rviz
+Node namespace: /
+Topic type: visualization_msgs/msg/MarkerArray
+Topic type hash: RIHS01_86cb8800b6fb05b5eff1abd7a56f62a5641d3ae9a1c29e78e67e704f1d067dcf
+Endpoint type: SUBSCRIPTION
+GID: 01.0f.83.ad.04.02.4c.c0.00.00.00.00.00.00.20.04
+QoS profile:
+  Reliability: RELIABLE
+  History (Depth): KEEP_LAST (10)
+  Durability: VOLATILE
+  Lifespan: Infinite
+  Deadline: Infinite
+  Liveliness: AUTOMATIC
+  Liveliness lease duration: Infinite
+

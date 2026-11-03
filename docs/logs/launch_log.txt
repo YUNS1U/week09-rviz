@@ -1,0 +1,20 @@
+[INFO] [launch]: All log files can be found below /home/mamon/.ros/log/2026-11-03-20-05-13-527585-DESKTOP-OMDAVJE-494
+[INFO] [launch]: Default logging verbosity is set to INFO
+[INFO] [launch.user]: [오토모티브SW프로그래밍 9주차] RViz2 심화 시각화 시스템을 가동합니다.
+[INFO] [custom_marker_publisher-2]: process started with pid [515]
+[INFO] [static_transform_publisher-1]: process started with pid [514]
+[INFO] [rviz2-3]: process started with pid [516]
+[static_transform_publisher-1] [INFO] [1793703913.699666632] [odom_to_base_link]: Spinning until stopped - publishing transform
+[static_transform_publisher-1] translation: ('0.000000', '0.000000', '0.000000')
+[static_transform_publisher-1] rotation: ('0.000000', '0.000000', '0.000000', '1.000000')
+[static_transform_publisher-1] from 'odom' to 'base_link'
+[custom_marker_publisher-2] [INFO] [1793703914.181371873] [custom_marker_publisher]: === 커스텀 마커 퍼블리셔 노드 시작 ===
+[custom_marker_publisher-2]   - 기준 좌표계(frame_id): base_link
+[custom_marker_publisher-2]   - 발행 주기: 10.0 Hz
+[custom_marker_publisher-2]   - 장애물 기준 거리: 4.00 m
+[rviz2-3] [INFO] [1793703915.060920282] [rviz2]: Stereo is NOT SUPPORTED
+[rviz2-3] [INFO] [1793703915.061005361] [rviz2]: OpenGl version: 4.5 (GLSL 4.5)
+[rviz2-3] [INFO] [1793703915.120493910] [rviz2]: Stereo is NOT SUPPORTED
+[custom_marker_publisher-2] [INFO] [1793703945.768907496] [custom_marker_publisher]: 사용자 인터럽트로 마커 노드를 정상 종료합니다.
+[INFO] [custom_marker_publisher-2]: process has finished cleanly [pid 515]
+[rviz2-3] [INFO] [1793703950.288800699] [rclcpp]: signal_handler(signum=15)

@@ -1,0 +1,4 @@
+Starting >>> rviz_visualization
+Finished <<< rviz_visualization [1.49s]
+
+Summary: 1 package finished [1.68s]
